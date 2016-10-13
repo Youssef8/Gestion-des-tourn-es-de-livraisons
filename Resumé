@@ -6,10 +6,24 @@ entre un lieu de production quelconque, des dépots et des consommateurs. Nature
 entrainent des couts. Les frais attribuables à la gestion de la chaine d'approvisionnement s'élèvent a 32%
 du cout de fabrication dans la plupart de cas. Donc il va de soit que les couts de logistique constituent 
 un élément déterminant de la compétitivité de l'entreprise.
+
+The current global economy trend to put transport in the midle of the industry chain.
+almost all product must go through a series of trips between production, wharehouses
+and cunsumers. these trips cost money, in most cases the supply chaine expenses 
+attributable to the management cost up to 32% of the manufactring. So it stands a 
+determining element of company competitiveness.
+The appllication focuses on optimisation transport downstream, and increasing 
+performance indicators.
+
+
 Problèmatique:
 --------------
 La problématique a resoudre s'etend essentiellement à l'organisation des tournées de livraison, l'optimisation
 des couts de distrubution depuis une plateforme fixe vers des points de ventes.
+
+The problem to solve cover delivery rounds, distrubution costs, and optimization truck 
+round  from warehouses platform to differents points. Comparison between  achieving a 
+delivery schedule and development of transport performance indicators.
 
 
 
