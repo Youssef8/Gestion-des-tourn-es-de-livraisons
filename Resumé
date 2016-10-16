@@ -38,6 +38,11 @@ Ainsi, l'objectif principal de ce travail est de planifier de tournées de véhi
 de clients, tout en minimisant le nombre de véhicules a utiliser et le distance totale parcourue en respectant un certain 
 nombre de contraintes.
 
+Definition:
+-----------
+Le probleme de tournées de Véhicules plus connu sous le nom anglais Vehicle Routing Problem (VRP) est un problème qui a fait l'objet
+de nombreuses études. il a été introduit en 1959 par Dantzig,
+
 WEBOGRAPHIE
 -----------
 http://fr.wikipedia.org/wiki/Probl%C3%A8me de tourn%C3%A9es de v%C3%A9hicules
