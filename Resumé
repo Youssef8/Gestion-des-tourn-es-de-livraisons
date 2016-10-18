@@ -4,7 +4,7 @@ Dans l'economie actuelle, rare est le produit qui arrive a etre consommé par so
 sans l'intervention du transport. Presque tous les produits doivent passer par une serie de déplacements
 entre un lieu de production quelconque, des dépots et des consommateurs. Naturellement, ces déplacements
 entrainent des couts. Les frais attribuables à la gestion de la chaine d'approvisionnement s'élèvent a 32%
-du cout de fabrication dans la plupart de cas. Donc il va de soit que les couts de logistique constituent 
+du cout de fabrication dans la plupart des cas. Donc il va de soit que les couts de logistique constituent 
 un élément déterminant de la compétitivité de l'entreprise.
 
 The current global economy trend to put transport in the midle of the industry chain.
@@ -34,14 +34,21 @@ véhicules, le temps de travail des chauffeurs qu'il faut prendre en considérat
 amenées à chercher des moyens d'optimisation de tournées de véhicule capable de gérer un grand nombre de contraintes 
 et de clients d'une manière efficace. Cette problématique est connue sous le nom de problèmes de tournées de véhicules
 traduit en anglais par Vehicle Routing Problem (VRP).
-Ainsi, l'objectif principal de ce travail est de planifier de tournées de véhicule pour satisfaire pleinement les demandes
-de clients, tout en minimisant le nombre de véhicules a utiliser et le distance totale parcourue en respectant un certain 
+Ainsi, l'objectif principal de ce travail est de planifier les tournées de véhicule pour satisfaire pleinement les demandes
+de clients, tout en minimisant le nombre de véhicules a utiliser et la distance totale parcourue en respectant un certain 
 nombre de contraintes.
 
 Definition:
 -----------
 Le probleme de tournées de Véhicules plus connu sous le nom anglais Vehicle Routing Problem (VRP) est un problème qui a fait l'objet
-de nombreuses études. il a été introduit en 1959 par Dantzig,
+de nombreuses études. il a été introduit en 1959 par Dantzig, et permet de modéliser ainsi que de résoudre des problèmes de transport
+opérationnel.
+VRP est une classe de problèmes de recherche opérationnelle et d'optimisation combinatoire. Il s'agit de déterminer les tournées d'une 
+flotte de véhicule afin de livrer une liste de clients, ou de réaliser des tournées d'interventions (maintenance, réparation, controles) 
+ou de visites(visites médicales, commerciales, etc.). Le but est de minimiser le cout de livraison des biens. Ce problème est une extension
+classique du problème du voyageur de commerce, et fait partie de la classe des problèmes NP-Complet.
+
+On associe généralement,
 
 WEBOGRAPHIE
 -----------
