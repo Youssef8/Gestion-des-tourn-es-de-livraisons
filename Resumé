@@ -48,7 +48,9 @@ flotte de véhicule afin de livrer une liste de clients, ou de réaliser des tou
 ou de visites(visites médicales, commerciales, etc.). Le but est de minimiser le cout de livraison des biens. Ce problème est une extension
 classique du problème du voyageur de commerce, et fait partie de la classe des problèmes NP-Complet.
 
-On associe généralement,
+On associe généralement à chaque point de passage une quantité (à collecter ou à livrer) et/ou un temps de service. De plus les véhicules 
+sont souvent limités en termes de capacité. La capacité d'un véhicule représente la quantité de produit maximum pouvant étre contenu dans 
+le véhicule. Ce problème se nomme problème de tournées de véhicules avec contrainte de capacité (Capacited Vehicle Routing Problem ou CVRP)
 
 WEBOGRAPHIE
 -----------
