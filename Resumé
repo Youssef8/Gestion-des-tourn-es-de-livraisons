@@ -54,6 +54,10 @@ le véhicule. Ce problème se nomme problème de tournées de véhicules avec co
 et consiste à livrer (ou collecter) une charge sur les points de passage à l'aide d'une flotte de véhicules dont la capacité est limitée. Ce type de problème est souvent confondu avec le problème de base qu est celui de VRP.
 En effet, dans les cas pratiques, les tournées correspondent à une livraison (ou une collecte) avec une certaine demande sur chaque point de passage et doivent donc prendre en compte la contrainte de capacité a respecter par chaque véhicule, on rencontre très rarement des problèmes sans contrainte de capacité.
 Ainsi les contraintes les contraintes usuelles de base du VRP ou CVRP sont les suivantes :
+- Tous les clients doivent étre visités
+- Un client ne sera servi qu'une unique fois
+- Un véhicule qui arrive chez un client doit en repartir
+- La capacité des véhicules doit étre respectée
 
 
 
