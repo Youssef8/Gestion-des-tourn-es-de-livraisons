@@ -56,9 +56,13 @@ En effet, dans les cas pratiques, les tournées correspondent à une livraison (
 Ainsi les contraintes les contraintes usuelles de base du VRP ou CVRP sont les suivantes :
 - Tous les clients doivent étre visités
 - Un client ne sera servi qu'une unique fois
-- Un véhicule qui arrive chez un client doit en repartir
+- Un véhicule qui arrive a destination doit en repartir
 - La capacité des véhicules doit étre respectée
-
+Les types d'algorithmes de résolution existants:
+*Exacts: Branch and Bound, Branch and cut.
+*Heuristiques: 
+-Constructions et composites
+-Améliorations: Deterministe, et non deterministe; Tabou, Génétique circuit simulé, et colonie de fourmis.
 
 
 WEBOGRAPHIE
