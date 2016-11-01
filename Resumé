@@ -64,6 +64,9 @@ Les types d'algorithmes de résolution existants:
 -Constructions et composites
 -Améliorations: Deterministe, et non deterministe; Tabou, Génétique circuit simulé, et colonie de fourmis.
 
+Outils de resolution :
+OptaPlanner est un moteur Open Source intégrable et léger de planification qui aide à résoudre efficacement des problèmes de satisfaction 
+de contraintes. Il résout les cas d'utilisation tels que:
 
 WEBOGRAPHIE
 -----------
